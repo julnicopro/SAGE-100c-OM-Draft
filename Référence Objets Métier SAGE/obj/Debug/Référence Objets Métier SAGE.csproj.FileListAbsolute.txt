@@ -1,0 +1,11 @@
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.csprojAssemblyReference.cache
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Interop.Objets100Lib.dll
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.csproj.ResolveComReference.cache
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence_Objets_Métier_SAGE.Form1.resources
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence_Objets_Métier_SAGE.Properties.Resources.resources
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.csproj.GenerateResource.cache
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\bin\Debug\Référence Objets Métier SAGE.exe.config
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\bin\Debug\Référence Objets Métier SAGE.exe
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\bin\Debug\Référence Objets Métier SAGE.pdb
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.exe
+C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.pdb
