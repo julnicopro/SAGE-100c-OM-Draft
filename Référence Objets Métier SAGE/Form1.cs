@@ -345,7 +345,7 @@ namespace Référence_Objets_Métier_SAGE
 
         private void button3_Click(object sender, EventArgs e)
         {
-            // Debut 2
+            // Debut
             IBSCIALApplication3 gc = new BSCIALApplication3();
             IBSCPTAApplication3 compta = new BSCPTAApplication3();
 
