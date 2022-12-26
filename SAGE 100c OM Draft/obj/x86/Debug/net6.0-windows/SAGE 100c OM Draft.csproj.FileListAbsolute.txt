@@ -1,0 +1,19 @@
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\bin\x86\Debug\net6.0-windows\SAGE 100c OM Draft.exe
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\bin\x86\Debug\net6.0-windows\SAGE 100c OM Draft.deps.json
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\bin\x86\Debug\net6.0-windows\SAGE 100c OM Draft.runtimeconfig.json
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\bin\x86\Debug\net6.0-windows\SAGE 100c OM Draft.dll
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\bin\x86\Debug\net6.0-windows\SAGE 100c OM Draft.pdb
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.csproj.AssemblyReference.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\Interop.Objets100cLib.dll
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.csproj.ResolveComReference.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE_100c_OM_Draft.Form1.resources
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.csproj.GenerateResource.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.AssemblyInfoInputs.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.AssemblyInfo.cs
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.csproj.CoreCompileInputs.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.dll
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\refint\SAGE 100c OM Draft.dll
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.pdb
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\SAGE 100c OM Draft.genruntimeconfig.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\SAGE 100c OM Draft\obj\x86\Debug\net6.0-windows\ref\SAGE 100c OM Draft.dll

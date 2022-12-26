@@ -1,0 +1,8 @@
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\Référence Objets Métier SAGE\obj\x86\Debug\Référence Objets Métier SAGE.csproj.AssemblyReference.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\Référence Objets Métier SAGE\obj\x86\Debug\Référence Objets Métier SAGE.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\Référence Objets Métier SAGE\obj\x86\Debug\Interop.Objets100cLib.dll
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\Référence Objets Métier SAGE\obj\x86\Debug\Référence Objets Métier SAGE.csproj.ResolveComReference.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\Référence Objets Métier SAGE\obj\x86\Debug\Référence_Objets_Métier_SAGE.Form1.resources
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\Référence Objets Métier SAGE\obj\x86\Debug\Référence_Objets_Métier_SAGE.Properties.Resources.resources
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\Référence Objets Métier SAGE\obj\x86\Debug\Référence Objets Métier SAGE.csproj.GenerateResource.cache
+C:\Users\j.nicolas\OneDrive - Upperside Capital Partners\Documents\GitHub\SAGE-100c-OM-Draft\Référence Objets Métier SAGE\obj\x86\Debug\Référence Objets Métier SAGE.csproj.CoreCompileInputs.cache
