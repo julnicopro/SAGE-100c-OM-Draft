@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Objets100cLib;
 using Objets100Lib;
 
 namespace Référence_Objets_Métier_SAGE
@@ -690,6 +691,11 @@ namespace Référence_Objets_Métier_SAGE
             
 
             gc.Close();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

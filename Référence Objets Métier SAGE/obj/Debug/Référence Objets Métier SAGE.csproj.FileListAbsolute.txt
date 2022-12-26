@@ -9,3 +9,13 @@ C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\bin\D
 C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\bin\Debug\Référence Objets Métier SAGE.pdb
 C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.exe
 C:\Users\j.nicolas\Source\Repos\VS-OM-SAGE\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.pdb
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.csproj.AssemblyReference.cache
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Interop.Objets100cLib.dll
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.csproj.ResolveComReference.cache
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence_Objets_Métier_SAGE.Form1.resources
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence_Objets_Métier_SAGE.Properties.Resources.resources
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.csproj.GenerateResource.cache
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.csproj.CoreCompileInputs.cache
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.exe
+C:\Users\j.nicolas\Source\Repos\SAGE-100-OM-Draft\Référence Objets Métier SAGE\obj\Debug\Référence Objets Métier SAGE.pdb
