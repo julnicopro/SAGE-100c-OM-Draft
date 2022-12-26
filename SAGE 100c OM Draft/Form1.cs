@@ -28,7 +28,7 @@ namespace SAGE_100c_OM_Draft
             // Début traitement         
             if (gc.IsOpen)
             {
-                MessageBox.Show("Conenxion OK.");
+                MessageBox.Show("Connexion OK.");
             }
 
             gc.Close();
