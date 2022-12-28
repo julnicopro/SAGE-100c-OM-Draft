@@ -58,12 +58,15 @@ namespace SAGE_100c_OM_Draft
                 DateTime dateJour = DateTime.Today;
                 switch (monJournal.TypePeriodCloture[dateJour])
                 {
+                    // Valeur 2
                     case PeriodClotureType.PeriodClotureTotal:
                         MessageBox.Show("Journal cloturé totalement à la date du " + dateJour + ".");
                         break;
+                    // Valeur 1
                     case PeriodClotureType.PeriodCloturePartial:
                         MessageBox.Show("Journal cloturé partiellement à la date du " + dateJour + ".");
                         break;
+                    // Valeur 0
                     case PeriodClotureType.PeriodClotureNone:
                         MessageBox.Show("Journal non cloturé à la date du " + dateJour + ".");
                         break;
@@ -72,7 +75,6 @@ namespace SAGE_100c_OM_Draft
                         break;
                 }
             }
-
             gc.Close();
         }
     }
